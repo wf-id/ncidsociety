@@ -35,3 +35,12 @@ ragg::agg_png(here::here("static", "images", "network.png"))
 plot(z, node.col = "red")
 dev.off()
 
+library(magick)
+
+infection_fig <- image_read(here::here("static", "images", "infection.png"))
+network_fig <- image_read(here::here("static", "images", "network.png"))
+ncflag_fig <- image_read(here::here("static", "images", "nc_flag.jpg"))
+image_info(infection_fig)
+comb_image <- image_append(c(infection_fig, image_resize(ncflag_fig, "480x480"), network_fig))
+
+image_write(comb_image, here::here("static", "images", "header1.png"))
