@@ -1,0 +1,37 @@
+library("epinet")
+
+N <- 50
+mycov <- data.frame(id = 1:N, xpos = runif(N), ypos = runif(N))
+
+dyadCov <- BuildX(mycov, binaryCol = list(c(2, 3)),binaryFunc = "euclidean")
+
+eta <- c(0, -10)
+
+net <- SimulateDyadicLinearERGM(N = N, dyadiccovmat = dyadCov, eta = eta)
+
+epi <- SEIR.simulator(M = net, N = N, beta = 1, ki = 3, thetai = 7,ke = 3, latencydist = "gamma")
+
+ragg::agg_png(here::here("static", "images", "infection.png"))
+plot(epi,main = "", e.col = "slategrey", i.col = "red", adj = 0, lwd =3)
+dev.off()
+
+# ------------------------------------------
+
+xfer_mat = epi |>
+as.data.frame() |>
+dplyr::select(from = Parent, to = `Node ID`) |>
+dplyr::filter(!is.na(from)) |>
+as.matrix()
+
+
+library(igraph)
+
+z <- graph_from_edgelist(xfer_mat, directed = TRUE)
+z <- simplify(z)
+length(V(z))
+V(z)$color <- sample(size =length(V(z)), c("red", "blue"), replace = TRUE)
+
+ragg::agg_png(here::here("static", "images", "network.png"))
+plot(z, node.col = "red")
+dev.off()
+
