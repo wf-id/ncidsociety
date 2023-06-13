@@ -8,9 +8,9 @@ menu:
     weight: 1
 ---
 
-Other questions?
+## Other questions?
 
-<div class ="formbox" style="width:80%">
+<div class ="formbox" style="width:80%;">
 
 <form name="contact" method="POST" data-netlify="true">
   <p>

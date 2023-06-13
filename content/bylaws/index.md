@@ -5,7 +5,7 @@ featured_image: ''
 type: 'page'
 menu:
   main:
-    weight: 1
+    weight: 8
 ---
 
 Here we will put more information about our membership.

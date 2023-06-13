@@ -8,5 +8,5 @@ cascade:
 ---
 # Under construction
 
-More to come!
+The North Carolina Infectious Diseases Society (NCID) is an organization of pharmacists, physicians, scientists and other health care professionals dedicated to the promotion and recognition of excellence in research, patient care, public health, disease prevention and education in the field of infectious diseases in the state of North Carolina. NCID promotes the aims and goals of its members by its organizational structure, professional meetings, advocacy, educational development opportunities, and other activities.
 
