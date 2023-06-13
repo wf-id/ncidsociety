@@ -4,3 +4,4 @@
 A public facing website for the North Carolina Infectious Disease Society.
 
 This website is build using Hugo and is based on the work by John Lees' lab at <https://github.com/bacpop/bacpop-website>.
+This in turn, uses the [ananke](https://github.com/crisisfighters/crisisfighters-org-gohugo-theme-ananke) template.
