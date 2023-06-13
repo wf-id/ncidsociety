@@ -3,8 +3,7 @@ title: "Membership"
 description: "More about joining"
 featured_image: ''
 type: 'page'
-cascade:
-  featured_image: '/images/header1.png'
+featured_image: '/images/header1.png'
 menu:
   main:
     weight: 1
