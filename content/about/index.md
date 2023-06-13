@@ -3,15 +3,16 @@ title: "About"
 description: "More about our members"
 featured_image: ''
 type: 'page'
+cascade:
+  featured_image: '/images/header1.png'
 menu:
   main:
-    weight: 1
+    weight: 99
 ---
 
 ## Other questions?
 
-<div class ="formbox" style="width:80%;">
-
+<span style="width: 80%;">
 <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>
@@ -26,5 +27,4 @@ menu:
     <button type="submit">Send</button>
   </p>
 </form>
-
-</div>
+</span>

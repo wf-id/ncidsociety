@@ -5,7 +5,7 @@ featured_image: ''
 type: 'page'
 menu:
   main:
-    weight: 7
+    weight: 98
 ---
 
 
