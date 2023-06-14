@@ -11,6 +11,8 @@ menu:
 
 ## Other questions?
 
+Please feel free to contact us using the below form:
+<div class ="formbox">
 <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>
@@ -25,3 +27,4 @@ menu:
     <button type="submit">Send</button>
   </p>
 </form>
+</div>
