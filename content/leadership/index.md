@@ -1,6 +1,6 @@
 ---
 title: "Leadership"
-description: "Key resources for members"
+description: "Our leadership and board"
 featured_image: ''
 type: 'page'
 featured_image: '/images/header1.png'
@@ -10,6 +10,8 @@ menu:
 ---
 
 ## Leadership and Board
+
+The North Carolina Infectious Diseases Society is led by a five member board of directors. 
 
 ### President 
 

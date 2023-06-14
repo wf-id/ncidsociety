@@ -9,8 +9,3 @@ menu:
     weight: 99
 ---
 
-## Other questions?
-
-Please feel free to contact us using the below form:
-
-{{< form-contact action="https://formspree.io/f/xgebgard" >}}
