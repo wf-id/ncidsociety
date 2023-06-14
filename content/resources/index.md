@@ -10,7 +10,7 @@ menu:
 ---
 
 
-{{< figure src="/images/dhhs-logo.png" >}}[North Carolina Department of Health and Human Services](https://www.ncdhhs.gov/divisions/public-health)
+{{< figure src="/images/dhhs-logo.png" href="https://www.ncdhhs.gov/divisions/public-health">}}[North Carolina Department of Health and Human Services](https://www.ncdhhs.gov/divisions/public-health)
 
 
 {{< figure src="/images/idsapride.jpeg" >}}[Infectious Diseases Society of America](https://www.ncdhhs.gov/divisions/public-health)
