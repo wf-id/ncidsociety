@@ -37,8 +37,8 @@ dev.off()
 
 library(magick)
 
-infection_fig <- image_read(here::here("static", "images", "infection.png"))
-network_fig <- image_read(here::here("static", "images", "network.png"))
+infection_fig <- image_read(here::here("static", "images", "cdc-plaque.jpeg"))
+network_fig <- image_read(here::here("static", "images", "cdc-vial.jpeg"))
 ncflag_fig <- image_read(here::here("static", "images", "nc_flag.jpg"))
 image_info(infection_fig)
 comb_image <- image_append(c(infection_fig, image_resize(ncflag_fig, glue::glue("480x{HEIGHT}")), network_fig))
