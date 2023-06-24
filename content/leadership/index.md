@@ -25,6 +25,8 @@ The North Carolina Infectious Diseases Society is led by a five member board of 
 
 ## Special Advisors
 
+These ad-hoc, non-voting members can be appointed as needed to assist on special topics or initiatives.
+
 ## Emeritus 
 
 We'd like to thank all of the former leaders of the organization.
