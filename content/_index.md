@@ -3,8 +3,7 @@ title: "NC Infectious Disease Society"
 
 description: "Infectious Diseases Society in North Carolina"
 theme_version: '2.8.2'
-cascade:
-  featured_image: '/images/header1.png'
+featured_image: '/images/header1.png'
 ---
 
 ## Who we are
