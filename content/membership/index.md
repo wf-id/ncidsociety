@@ -16,5 +16,5 @@ Join the vibrant community of infectious disease practitioners and researchers i
 
 ## Interested in joining?
 
-Please complete [the following intake form](https://forms.gle/Mgp7RcrmVG4dVymW6). 
+Please complete [the following intake form](https://redcap.link/ncidsmembers). 
 We'll reach out to your with more information
