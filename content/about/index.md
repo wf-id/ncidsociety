@@ -13,3 +13,5 @@ The North Carolina Infectious Diseases Society is a 501c(3) organization registe
 We plan to become affiliated with the [Infectious Diseases Society of America](idsa.org).
 
 If you want to learn more, feel free to [contact us]({{< ref "/contact.md" >}}).
+
+>This page was designed and developed by the [Wake Forest University School of Medicine Infectious Disease Epidemiology and Applied Statistics](https://wakeforestid.com/groups/ideas.html) (IDEAS) Group.
