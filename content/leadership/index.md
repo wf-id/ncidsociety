@@ -13,15 +13,11 @@ menu:
 
 The North Carolina Infectious Diseases Society is led by a five member board of directors. 
 
-### President (1-year term AFTER completing 1-year term as VP/President elect)
-* Preside over quarterly business meeting, draft agenda with other officers
-* Maintain signing privileges on bank account and on-line access with the Treasurer
-* Liaison duties with contacts at IDSA national organization related to society affiliation with IDSA	 
-* Responsible to society members for administration of the NCIDS
-* Verify NCIDS board officers are all IDSA members as required in IDSA agreement
-* Oversee tallying votes of annual officer election
-* Share in NCIDS event planning with other officers
-* Record and maintain minutes of quarterly business meeting if the VP cannot attend
+### President
+![](/images/weinrib.jpg)
+David Weinrib, MD, serves as the president of the North Carolina Infectious Diseases Society.
+He is currently a practicing physician at Atrium Health - Carolinas Medical Center (Charlotte).
+He completed his training at the Univ. of Alabama School of Medicine (1989); Beth Israel Hospital (Boston) IM residency (1989-1992; Chief resident 1994-1995); Combined Harvard ID Training Program (1992-1994).
 
 ### VP/President elect/Secretary (1-year term upon election, assumption of President in year TWO)
 
