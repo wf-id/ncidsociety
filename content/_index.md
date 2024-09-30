@@ -24,7 +24,7 @@ The venue is walking distance from the LA Convention Center.
 Los Angeles, CA 90015
 Phone: 213-502-0227
 
-**Please contact [Mike Schwartz](mailto:mike.schwartz@ecu.edu) or [David Weinrib](mailto:dweinrib@David.Weinrib@atriumhealth.org) if you plan to attend!**
+**Please contact [Mike Schwartz](mailto:SCHWARTZM18@ECU.EDU) or [David Weinrib](mailto:dweinrib@David.Weinrib@atriumhealth.org) if you plan to attend!**
 
 
 ## Interested in Joining?
