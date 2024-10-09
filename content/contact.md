@@ -14,7 +14,7 @@ menu:
 
 Please feel free to contact us using the below form:
 
-{{< form-contact action="https://formspree.io/f/xgebgard" >}}
+
 
 <script src="https://js.stripe.com/v3/"></script>
 

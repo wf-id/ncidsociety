@@ -3,7 +3,6 @@
 [build]
 publish = "public"
 command = "hugo --gc --minify"
-#functions = "netlify/functions"
 
 [context.production.environment]
 HUGO_VERSION = "0.100.2"
@@ -32,12 +31,7 @@ HUGO_VERSION = "0.100.2"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-#[[redirects]]
-#from = "/npmjs/*"
-#to = "/npmjs/"
-#status = 200
-
-#[[redirects]]
-#  from = '/api/*'
-#  to = '/.netlify/functions/:splat'
-#  status = 200
+[[redirects]]
+from = "/npmjs/*"
+to = "/npmjs/"
+status = 200
