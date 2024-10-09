@@ -1,0 +1,28 @@
+[
+    {
+       "sku" : "MAGNET-01",
+       "name" : "Magnet Décapsuleur",
+       "description": "Magnet décapsuleur du camping Arolla",
+       "image": "/images/cdc-vial.jpeg",
+       "image_hover": "/images/cdc-vial.jpeg",
+       "amount": "860",
+       "currency": "CHF"
+    },
+    {
+       "sku" : "BUNDLE-01",
+       "name" : "Pack extra",
+       "description": "Bundle Magnet + Carte Postale",
+       "image": "/images/cdc-vial.jpeg",
+       "amount": "1000",
+       "currency": "CHF"
+    },
+    {
+       "sku" : "CARTE-01",
+       "name" : "Carte Postale",
+       "description": "Carte Postale du camping Arolla",
+       "image": "/images/cdc-vial.jpeg",
+       "image_hover": "/images/cdc-vial.jpeg",
+       "amount": "190",
+       "currency": "CHF"
+    }
+ ]
