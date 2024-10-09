@@ -14,6 +14,14 @@ menu:
 Join the vibrant community of infectious disease practitioners and researchers in the great state of North Carolina.
 
 
+## Membership Fees
+
+You can pay your membership dues below:
+
+[Professionals pay $30 per year](https://buy.stripe.com/28odTWgnjfEPcjCaEE)
+
+[Students, residents, fellows and other trainees pay $10 per year](https://buy.stripe.com/3cs7vyefb8cn6ZidQR)
+
 ## Interested in joining?
 
 Please complete [the following intake form](https://redcap.link/ncidsmembers). 
