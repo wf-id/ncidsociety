@@ -17,8 +17,8 @@ exports.handler = async (event, context) => {
       },
     ],
     mode: "payment",
-    success_url: "https://project-connects.com/success",
-    cancel_url: "https://project-connects.com/cancel",
+    success_url: "https://project-connects.com/contact",
+    cancel_url: "https://project-connects.com/contact",
   });
 
   return {
