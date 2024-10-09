@@ -3,6 +3,7 @@
 [build]
 publish = "public"
 command = "hugo --gc --minify"
+functions = "netlify/functions"
 
 [context.production.environment]
 HUGO_VERSION = "0.100.2"
@@ -35,3 +36,8 @@ HUGO_ENABLEGITINFO = "true"
 from = "/npmjs/*"
 to = "/npmjs/"
 status = 200
+
+[[redirects]]
+  from = '/api/*'
+  to = '/.netlify/functions/:splat'
+  status = 200
