@@ -32,10 +32,10 @@ HUGO_VERSION = "0.100.2"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[[redirects]]
-from = "/npmjs/*"
-to = "/npmjs/"
-status = 200
+#[[redirects]]
+#from = "/npmjs/*"
+#to = "/npmjs/"
+#status = 200
 
 [[redirects]]
   from = '/api/*'
