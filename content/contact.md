@@ -16,10 +16,8 @@ Please feel free to contact us using the below form:
 
 {{< form-contact action="https://formspree.io/f/xgebgard" >}}
 
-{{ $html := '<script src="https://js.stripe.com/v3/"></script>'}}
-{{ $html | safeHTML }}
+<script src="https://js.stripe.com/v3/"></script>
 
-{{ $html :='
 <div
       style="
         height: 100%;
@@ -64,5 +62,3 @@ Please feel free to contact us using the below form:
         });
       </script>
     </div>
-'}}
-{{ $html | safeHTML }}
