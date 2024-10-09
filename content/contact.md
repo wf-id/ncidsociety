@@ -16,11 +16,44 @@ Please feel free to contact us using the below form:
 
 {{< form-contact action="https://formspree.io/f/xgebgard" >}}
 
-<!--Mandatory  script pour STRIPE -->
-<script src="https://js.stripe.com/v3/"></script>
+
+
 
 <!--Mandatory  script pour STRIPE -->
 <script src="https://js.stripe.com/v3/"></script>
+
+<style>
+  /* Pour le shop */
+.product input {
+  border: 1px solid teal;
+  border-radius: 0.25rem;
+  font-size: 1.125rem;
+  line-height: 1.25rem;
+  padding: 0.2rem;
+}
+.product button {
+  background: teal;
+  border: none;
+  border-radius: 0.25rem;
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.1rem;
+  padding: 0.25rem;
+  width: 110px;
+  height: 30px;
+  margin-bottom: 40px;
+}
+.product h2 {
+  font-size: 1.25rem;
+}
+.product .price {
+  font-weight: 800;
+}
+.product .description {
+  font-style: italic;
+}
+</style>
 
 <!-- Titre du SHOP -->
 <section class="section bg-gray" id="shop">

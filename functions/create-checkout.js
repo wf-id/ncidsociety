@@ -1,5 +1,5 @@
 // Stripe secret Key on Netlify ENV Variable
-const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
+const stripe = require('stripe')(process.env.STRIPE_SECRET);
 // The inventory (Only one language at the moment)
 const inventory = require('./data/products.json');
 
