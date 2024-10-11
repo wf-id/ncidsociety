@@ -23,7 +23,7 @@ The North Carolina Infectious Diseases Society is led by a five member board of 
 ### President
 
 <div class="wrapper">
-<img src="/images/weinrib.jpg" width="240">
+<img src="/images/weinrib.jpg">
 
 <p>David Weinrib, MD, serves as the president of the North Carolina Infectious Diseases Society.
 He is currently a practicing physician at Atrium Health - Carolinas Medical Center (Charlotte).</p>
@@ -31,7 +31,7 @@ He is currently a practicing physician at Atrium Health - Carolinas Medical Cent
 
 ### Vice President
 
-<img src="/images/jen.jpg" width="240" >
+<img src="/images/jen.jpg">
 
 Jennifer Emberger, MD, serves as the vice president. She is a practicing infectious disease physician and clinical assistant professor at East Carolina University/ECU Health Medical Center.
 
@@ -48,7 +48,7 @@ Julia Cook, MD, serves as the treasurer. She is a practicing infectious disease 
 
 ### Assistant Secretary
 
-<img src="/images/pierce.png" width="240" >
+<img src="/images/pierce.png">
 
 Jacob Pierce, MD, serves as the assistant secretary. He is an assistant professor of infectious diseases and Medical Director of Infection Prevention for ECU Health system.
 
