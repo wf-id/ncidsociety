@@ -15,11 +15,11 @@ The North Carolina Infectious Diseases Society is led by a five member board of 
 
 ### President
 
-<img src="/images/weinrib.jpg" width="240" height="240" >
+{{ $html := "<img src="/images/weinrib.jpg" width="240" height="240" >"}}
+{{ $html | safeHTML }}
 
 David Weinrib, MD, serves as the president of the North Carolina Infectious Diseases Society.
 He is currently a practicing physician at Atrium Health - Carolinas Medical Center (Charlotte).
-He completed his training at the Univ. of Alabama School of Medicine (1989); Beth Israel Hospital (Boston) IM residency (1989-1992; Chief resident 1994-1995); Combined Harvard ID Training Program (1992-1994).
 
 ### Vice President
 
@@ -30,6 +30,7 @@ Jennifer Emberger, MD, serves as the vice president. She is a practicing infecti
 ### Secretary
 
 <img src="/images/dewitt.jpg" width="240" height="240" >
+
 Michael DeWitt, MS, serves as the secretary. He is an infectious disease epidemiologist and ecologist at Wake Forest University School of Medicine.
 
 ### Treasurer 
