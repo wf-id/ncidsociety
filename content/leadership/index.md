@@ -9,49 +9,27 @@ menu:
     weight: 2
 ---
 
-<style>
-    
-#cont {
-  padding: 5px;
-  background-color: red;
-  max-height: 150px;
-  max-width: 50%;
-  display: flex; /*added*/
-  flex-direction: column; /*added*/
-}    
-</style>
-
 ## Leadership and Board
 
 The North Carolina Infectious Diseases Society is led by a five member board of directors. 
 
 ### President
 
-<div class="container">
-
-<div class ="col-sm-4">
-
-{{< figure src="/images/weinrib.jpg" >}}
-
-</div>
-
-<div class ="col-sm-8">
+<img src="/images/weinrib.jpg" width="240" height="240" >
+{{ $html | safeHTML }}
 
 David Weinrib, MD, serves as the president of the North Carolina Infectious Diseases Society.
 He is currently a practicing physician at Atrium Health - Carolinas Medical Center (Charlotte).
 
-</div>
-</div>
-
 ### Vice President
 
-{{< figure src="/images/jen.jpg" >}}
+<img src="/images/jen.jpg" width="240" height="240" >
 
 Jennifer Emberger, MD, serves as the vice president. She is a practicing infectious disease physician and clinical assistant professor at East Carolina University/ECU Health Medical Center.
 
 ### Secretary
 
-{{< figure src="/images/dewitt.jpg" >}}
+<img src="/images/dewitt.jpg" width="240" height="240" >
 
 Michael DeWitt, MS, serves as the secretary. He is an infectious disease epidemiologist and ecologist at Wake Forest University School of Medicine.
 
@@ -62,13 +40,13 @@ Julia Cook, MD, serves as the treasurer. She is a practicing infectious disease 
 
 ### Assistant Secretary
 
-{{< figure src="/images/pierce.jpg" >}}
+<img src="/images/pierce.png" width="240" height="240" >
 
 Jacob Pierce, MD, serves as the assistant secretary. He is an assistant professor of infectious diseases and Medical Director of Infection Prevention for ECU Health system.
 
 ### Assistant Treasurer
 
-{{< figure src="/images/schwartz.jpg" >}}
+<img src="/images/schwartz.jpg" width="240" height="240" >
 
 Mike Schwartz, PharmD, serves as the assistant treasurer. He is a clinical professor at East Carolina University College of Allied Health Sciences, Department of PA Studies and he also holds an appointment as Adjunct Professor in the Brody School of Medicine Division of Infectious Diseases.
 
