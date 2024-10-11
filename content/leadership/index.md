@@ -23,19 +23,31 @@ He completed his training at the Univ. of Alabama School of Medicine (1989); Bet
 
 ### Vice President
 
-Jennifer Emberger, MD, serves as the vice president.
+<img src="/images/jen.jpg" width="240" height="240" >
+
+Jennifer Emberger, MD, serves as the vice president. She is a practicing infectious disease physician and clinical assistant professor at East Carolina University/ECU Health Medical Center.
 
 ### Secretary
 
-Michael DeWitt, MS, serves as the secretary.
+<img src="/images/dewitt.jpg" width="240" height="240" >
+Michael DeWitt, MS, serves as the secretary. He is an infectious disease epidemiologist and ecologist at Wake Forest University School of Medicine.
 
 ### Treasurer 
 
-Julia Cook, MD, serves as the treasurer.
+
+Julia Cook, MD, serves as the treasurer. She is a practicing infectious disease physician and assistant professor at Wake Forest University School of Medicine.
 
 ### Assistant Secretary
 
+<img src="/images/pierce.png" width="240" height="240" >
+
+Jacob Pierce, MD, serves as the assistant secretary. He is an assistant professor of infectious diseases and Medical Director of Infection Prevention for ECU Health system.
+
 ### Assistant Treasurer
+
+<img src="/images/schwartz.jpg" width="240" height="240" >
+
+Mike Schwartz, PharmD, serves as the assistant treasurer. He is a clinical professor at East Carolina University College of Allied Health Sciences, Department of PA Studies and he also holds an appointment as Adjunct Professor in the Brody School of Medicine Division of Infectious Diseases.
 
 
 
