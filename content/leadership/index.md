@@ -15,7 +15,7 @@ The North Carolina Infectious Diseases Society is led by a five member board of 
 
 ### President
 
-{{ $html := "<img src="/images/weinrib.jpg" width="240" height="240" >"}}
+<img src="/images/weinrib.jpg" width="240" height="240" >
 {{ $html | safeHTML }}
 
 David Weinrib, MD, serves as the president of the North Carolina Infectious Diseases Society.
