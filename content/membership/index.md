@@ -16,11 +16,19 @@ Join the vibrant community of infectious disease practitioners and researchers i
 
 ## Membership Fees
 
+We have three tiers of membership:
+
+- Professionals (includes working professionals)
+- Fellows and those in infectious disease training programs
+- Students and residents
+
 You can pay your membership dues below:
 
-[Professionals pay $30 per year](https://buy.stripe.com/28odTWgnjfEPcjCaEE)
+[Professionals pay $70 per year](https://buy.stripe.com/dR6dTWb2Zboz0AU7sw)
 
-[Students, residents, fellows and other trainees pay $10 per year](https://buy.stripe.com/3cs7vyefb8cn6ZidQR)
+[Fellows pay $35 per year](https://buy.stripe.com/5kAdTWfjf50b3N6003)
+
+[Students, residents pay $0 per year](https://buy.stripe.com/6oE4jm6MJakv97q146)
 
 ## Interested in joining?
 
