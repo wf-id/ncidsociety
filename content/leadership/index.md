@@ -12,6 +12,7 @@ menu:
 <style>
    img {
     max-width: 25%;
+    max-height: 400px;
     float: left;
     padding: 10px;
 }
@@ -38,7 +39,7 @@ He is currently a practicing physician at Atrium Health - Carolinas Medical Cent
 
 </div>
 
-<br><br>
+<br><br><br><br>
 
 ### Vice President
 
@@ -50,7 +51,7 @@ Jennifer Emberger, MD, serves as the vice president. She is a practicing infecti
 
 </div>
 
-<br><br>
+<br><br><br><br>
 
 ### Secretary
 
@@ -62,7 +63,7 @@ Michael DeWitt, MS, serves as the secretary. He is an infectious disease epidemi
 
 </div>
 
-<br><br>
+<br><br><br><br>
 
 ### Treasurer 
 
@@ -73,7 +74,7 @@ Julia Cook, MD, serves as the treasurer. She is a practicing infectious disease 
 
 </div>
 
-<br><br>
+<br><br><br><br>
 
 ### Assistant Secretary
 
@@ -85,7 +86,7 @@ Jacob Pierce, MD, serves as the assistant secretary. He is an assistant professo
 
 </div>
 
-<br><br>
+<br><br><br><br>
 
 ### Assistant Treasurer
 
@@ -97,7 +98,7 @@ Mike Schwartz, PharmD, serves as the assistant treasurer. He is a clinical profe
 
 </div>
 
-<br><br>
+<br><br><br><br>
 
 >Note: It is HIGHLY encouraged that non-physician members take an active role in NCIDS leadership and as such may run for ANY position on the board. However, the Society wishes to ensure that it always has representation with a non-physician serving at a minimum in an at-large capacity.
 
