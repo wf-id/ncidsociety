@@ -10,10 +10,11 @@ menu:
 ---
 
 <style>
-   .wrapper {
-    display: grid;
-    grid-template-columns: 1fr, 2fr, 1fr;
-  }
+   img {
+    max-width: 25%;
+    float: left;
+    padding: 10px;
+}
 </style>
 
 ## Leadership and Board
