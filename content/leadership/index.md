@@ -9,16 +9,39 @@ menu:
     weight: 2
 ---
 
+<style>
+    
+#cont {
+  padding: 5px;
+  background-color: red;
+  max-height: 150px;
+  max-width: 50%;
+  display: flex; /*added*/
+  flex-direction: column; /*added*/
+}    
+</style>
+
 ## Leadership and Board
 
 The North Carolina Infectious Diseases Society is led by a five member board of directors. 
 
 ### President
 
+<div class="container">
+
+<div class ="col-sm-4">
+
 {{< figure src="/images/weinrib.jpg" >}}
+
+</div>
+
+<div class ="col-sm-8">
 
 David Weinrib, MD, serves as the president of the North Carolina Infectious Diseases Society.
 He is currently a practicing physician at Atrium Health - Carolinas Medical Center (Charlotte).
+
+</div>
+</div>
 
 ### Vice President
 
