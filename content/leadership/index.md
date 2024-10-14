@@ -35,7 +35,7 @@ The North Carolina Infectious Diseases Society is led by a five member board of 
 <img src="/images/weinrib.jpg">
 
 David Weinrib, MD, serves as the president of the North Carolina Infectious Diseases Society.
-He is currently a practicing physician at Atrium Health - Carolinas Medical Center (Charlotte).
+He is currently a practicing physician at Atrium Health - Carolinas Medical Center (Charlotte) and a Clinical Professor at the Wake Forest University School of Medicine.
 
 </div>
 
