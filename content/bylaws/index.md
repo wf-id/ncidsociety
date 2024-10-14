@@ -14,7 +14,7 @@ Our bylaws are available below:
 <style>
     iframe {
         width: 100%;
-        max-height: 800px;
+        max-height: 1800px;
     }
 </style>
 
