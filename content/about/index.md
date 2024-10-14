@@ -9,7 +9,7 @@ menu:
     weight: 99
 ---
 
-The North Carolina Infectious Diseases Society is a 501c(3) organization registered in the state of North Carolina (application pending).
+The North Carolina Infectious Diseases Society is a 501c(6) organization registered in the state of North Carolina. Our IRS non-profit status is pending.
 We plan to become affiliated with the [Infectious Diseases Society of America](idsa.org).
 
 If you want to learn more, feel free to [contact us]({{< ref "/contact.md" >}}).
