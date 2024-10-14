@@ -9,4 +9,13 @@ menu:
     weight: 3
 ---
 
-Here we will put more information about our membership.
+Our bylaws are available below:
+
+<style>
+    iframe {
+        width: 100%;
+        max-height: 800px;
+    }
+</style>
+
+<iframe src="https://app.box.com/embed/s/oivq88brfxv9c6s2j2lyz6emiprpmrem" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
