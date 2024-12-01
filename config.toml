@@ -74,3 +74,27 @@ label = "ncidsociety github"
     startLevel = 2
   [markup.goldmark.renderer]
     unsafe = true
+
+[params]
+  mainSections = []  # Empty this to prevent automatic section menu generation
+
+[menu]
+  [[menu.main]]
+    name = "Membership"
+    url = "/membership/"
+    weight = 10
+  
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 20
+  
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 30
+    
+  [[menu.main]]
+    name = "Members"
+    url = "/members/"
+    weight = 40
