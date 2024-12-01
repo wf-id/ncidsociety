@@ -32,8 +32,8 @@ HUGO_VERSION = "0.100.2"
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "/members/*"
-  to = "/members/:splat"
+  from = "/members/page*"
+  to = "/members/page:splat"
   status = 200
   force = true
   conditions = {Role = ["member"]}
