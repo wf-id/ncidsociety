@@ -6,10 +6,10 @@ type: 'page'
 featured_image: '/images/header1.png'
 menu:
   main:
-    weight: 1
+    weight: 100
 ---
 
-{{/* images/single.html */}}
+{{/* /images/single.html */}}
 {{ define "main" }}
 <article class="members-only">
     <!-- Include Netlify Identity Widget in safe way for Hugo -->
