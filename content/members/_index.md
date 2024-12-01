@@ -1,5 +1,5 @@
 ---
-title: "Membership"
+title: "Members"
 description: "Learn more about becoming a member of our community"
 featured_image: ''
 type: 'page'
@@ -8,22 +8,23 @@ menu:
   main:
     weight: 1
 ---
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Members Only Page</title>
-    <!-- Include Netlify Identity Widget -->
+
+{{/* images/single.html */}}
+{{ define "main" }}
+<article class="members-only">
+    <!-- Include Netlify Identity Widget in safe way for Hugo -->
+    {{ $netlifyIdentity := resources.Get "js/netlify-identity-widget.js" | resources.ExecuteAsTemplate "js/netlify-identity-widget.js" . | minify | fingerprint }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-</head>
 
     <!-- Login/Logout Button -->
     <div data-netlify-identity-button></div>
 
     <!-- Protected Content -->
     <div id="protected-content" style="display: none;">
-        <h1>Welcome to the Members Area</h1>
-        <p>This content is only visible to logged-in members.</p>
-        <!-- Add your protected content here -->
+        <h1>{{ .Title }}</h1>
+        <div class="content">
+            {{ .Content }}
+        </div>
     </div>
 
     <!-- Public Content -->
@@ -32,8 +33,8 @@ menu:
         <p>You must be logged in to view the protected content.</p>
     </div>
 
-    <script>
-        // Check if user is logged in
+    <!-- Safe way to include JavaScript in Hugo -->
+    {{ $js := `
         function checkUser() {
             const user = netlifyIdentity.currentUser();
             const protectedContent = document.getElementById('protected-content');
@@ -59,4 +60,8 @@ menu:
         netlifyIdentity.on('logout', () => {
             checkUser();
         });
-    </script>
+    ` }}
+    {{ $js := resources.FromString "js/protected.js" $js | resources.Minify | resources.Fingerprint }}
+    <script>{{ $js.Content | safeJS }}</script>
+</article>
+{{ end }}
