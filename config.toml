@@ -30,6 +30,42 @@ url = "https://github.com/wf-id/ncidsociety"
 label = "ncidsociety github"
 
 
+[menu]
+  [[menu.main]]
+    name = "about"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    name = "bylaws"
+    url = "/bylaws/"
+    weight = 20
+  [[menu.main]]
+    name = "leadership"
+    url = "/leadership/"
+    weight = 30
+  [[menu.main]]
+    name = "membership"
+    url = "/membership/"
+    weight = 40
+  [[menu.main]]
+    name = "resources"
+    url = "/resources/"
+    weight = 50
+  [[menu.main]]
+    name = "sponsors"
+    url = "/sponsors/"
+    weight = 60
+  [[menu.main]]
+    name = "contact"
+    url = "/contact/"
+    weight = 70
+  [[menu.main]]
+    name = "members"
+    url = "/members/"
+    weight = 100
+  
+
+
 [markup]
   [markup.tableOfContents]
     endLevel = 2
