@@ -12,7 +12,7 @@ The North Carolina Infectious Diseases Society (NCIDS) is an organization of pha
 
 We aim to become a state affiliate of the [Infectious Diseases Society of America](https://www.idsociety.org/).
 
-## Join us at IDWeek  2024
+<!-- ## Join us at IDWeek  2024
 
 We will be meeting at IDWeek 2024 in Los Angeles, CA and will be hosting a cocktail reception on **Friday 10/18 at the [Lazy Dog](https://www.lazydogrestaurants.com/locations/la-live-ca), 5 to 7 PM.**
 
@@ -24,7 +24,7 @@ The venue is walking distance from the LA Convention Center.
 Los Angeles, CA 90015
 Phone: 213-502-0227
 
-**Please contact [Mike Schwartz](mailto:SCHWARTZM18@ECU.EDU) or [David Weinrib](mailto:dweinrib@David.Weinrib@atriumhealth.org) if you plan to attend!**
+**Please contact [Mike Schwartz](mailto:SCHWARTZM18@ECU.EDU) or [David Weinrib](mailto:dweinrib@David.Weinrib@atriumhealth.org) if you plan to attend!** -->
 
 
 ## Interested in Joining?
