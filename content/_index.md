@@ -10,7 +10,9 @@ featured_image: '/images/header1.png'
 
 The North Carolina Infectious Diseases Society (NCIDS) is an organization of pharmacists, physicians, scientists and other health care professionals dedicated to the promotion and recognition of excellence in research, patient care, public health, disease prevention and education in the field of infectious diseases in the state of North Carolina. NCIDS promotes the aims and goals of its members by its organizational structure, professional meetings, advocacy, educational development opportunities, and other activities.
 
-We aim to become a state affiliate of the [Infectious Diseases Society of America](https://www.idsociety.org/).
+We are a state affiliate of the [Infectious Diseases Society of America](https://www.idsociety.org/).
+
+![]("/images/IDSA_Affiliate_Logo_Blue_Transparent.png")
 
 <!-- ## Join us at IDWeek  2024
 
