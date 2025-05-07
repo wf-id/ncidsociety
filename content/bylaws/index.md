@@ -11,6 +11,8 @@ menu:
 
 Our bylaws are available below:
 
+[Bylaws](https://app.box.com/s/oivq88brfxv9c6s2j2lyz6emiprpmrem)
+
 <style>
     iframe {
     width: 20em;
