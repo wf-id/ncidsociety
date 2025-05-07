@@ -13,6 +13,6 @@ menu:
 {{< figure src="/images/dhhs-logo.png" href="https://www.ncdhhs.gov/divisions/public-health">}}[North Carolina Department of Health and Human Services](https://www.ncdhhs.gov/divisions/public-health)
 
 
-{{< figure src="/images/Affiliate_GN.png" >}}[Infectious Diseases Society of America](https://www.idsociety.org)
+{{< figure src="/images/idsapride.jpeg" >}}[Infectious Diseases Society of America](https://www.idsociety.org)
 
 
