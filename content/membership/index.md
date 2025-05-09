@@ -28,7 +28,7 @@ You can pay your membership dues below:
 
 [Fellows pay $35 per year](https://buy.stripe.com/5kAdTWfjf50b3N6003)
 
-[Students, residents pay $0 per year](https://buy.stripe.com/6oE4jm6MJakv97q146)
+[Students, residents, pharmacy PGY2s, pay $0 per year](https://buy.stripe.com/6oE4jm6MJakv97q146)
 
 ## Interested in joining?
 
