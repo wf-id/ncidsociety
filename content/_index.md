@@ -14,19 +14,18 @@ We are a state affiliate of the [Infectious Diseases Society of America](https:/
 
 ![]("/images/IDSA_Affiliate_Logo_Blue_Transparent.png")
 
-<!-- ## Join us at IDWeek  2024
+## Join us at IDWeek  2025
 
-We will be meeting at IDWeek 2024 in Los Angeles, CA and will be hosting a cocktail reception on **Friday 10/18 at the [Lazy Dog](https://www.lazydogrestaurants.com/locations/la-live-ca), 5 to 7 PM.**
+We will be meeting at IDWeek 2025 in Atlanta, GA and will be hosting a cocktail reception on **Tuesday 10/21 at the [Margaritaville Atlanta](https://www.margaritavilleatlanta.com) from 6 to 8 PM.**
 
-Light hor d'oeuvres provided by the NCIDS – cash bar for all beverages.
-The venue is walking distance from the LA Convention Center.
+A build your own nacho bar (i.e., heavy hor d'oeuvres) will be provided by the NCIDS – cash bar for all beverages.
 
 [Lazy Dog Restaurant & Bar](https://www.lazydogrestaurants.com/locations/la-live-ca)
-800 W Olympic Blvd
-Los Angeles, CA 90015
-Phone: 213-502-0227
+155 Centennial Olympic Park Dr NW
+Atlanta, GA 30303
+Phone: (470) 579-2700
 
-**Please contact [Mike Schwartz](mailto:SCHWARTZM18@ECU.EDU) or [David Weinrib](mailto:dweinrib@David.Weinrib@atriumhealth.org) if you plan to attend!** -->
+**Please contact [RSVP using this link](https://redcap.link/idweek2025) if you plan to attend!**
 
 
 ## Interested in Joining?
