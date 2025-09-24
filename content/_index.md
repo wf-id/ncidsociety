@@ -20,10 +20,9 @@ We will be meeting at IDWeek 2025 in Atlanta, GA and will be hosting a cocktail 
 
 A build your own nacho bar (i.e., heavy hor d'oeuvres) will be provided by the NCIDS – cash bar for all beverages.
 
-[Lazy Dog Restaurant & Bar](https://www.lazydogrestaurants.com/locations/la-live-ca)
-155 Centennial Olympic Park Dr NW
-Atlanta, GA 30303
-Phone: (470) 579-2700
+155 Centennial Olympic Park Dr NW  
+Atlanta, GA 30303  
+Phone: (470) 579-2700  
 
 <div style="font-size: 1.15em;">
 **Please contact [RSVP using this link](https://redcap.link/idweek2025) by 15 October if you plan to attend!**
