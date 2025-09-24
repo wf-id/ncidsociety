@@ -25,8 +25,10 @@ A build your own nacho bar (i.e., heavy hor d'oeuvres) will be provided by the N
 Atlanta, GA 30303
 Phone: (470) 579-2700
 
-**Please contact [RSVP using this link](https://redcap.link/idweek2025) if you plan to attend!**
+<div style="font-size: 1.15em;">
+**Please contact [RSVP using this link](https://redcap.link/idweek2025) by 15 October if you plan to attend!**
 
+</div>
 
 ## Interested in Joining?
 
