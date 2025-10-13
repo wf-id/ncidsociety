@@ -25,6 +25,7 @@ Atlanta, GA 30303
 Phone: (470) 579-2700  
 
 <div style="font-size: 1.15em;">
+
 **Please contact [RSVP using this link](https://redcap.link/idweek2025) by 15 October if you plan to attend!**
 
 </div>
