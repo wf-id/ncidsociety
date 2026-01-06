@@ -14,21 +14,28 @@ We are a state affiliate of the [Infectious Diseases Society of America](https:/
 
 ![]("/images/IDSA_Affiliate_Logo_Blue_Transparent.png")
 
-## Join us at IDWeek  2025
+## NCIDS Spring Conference
 
-We will be meeting at IDWeek 2025 in Atlanta, GA and will be hosting a cocktail reception on **Tuesday 10/21 at the [Margaritaville Atlanta](https://www.margaritavilleatlanta.com) from 6 to 8 PM.**
+NCIDS is excited to announce a date for the spring scientific conference on March 14, 2026 in Chapel Hill, North Carolina at the Friday Center (100 Friday Center, Dr, Chapel Hill, NC). CME will be available for attendees (both physician and pharmacist)
 
-A build your own nacho bar (i.e., heavy hor d'oeuvres) will be provided by the NCIDS – cash bar for all beverages.
+[Register here at this link](https://www.piedmontahec.org/courses-and-events/77104/nc-infectious-disease-society-spring-clinical-and-scientific-meeting)
 
-155 Centennial Olympic Park Dr NW  
-Atlanta, GA 30303  
-Phone: (470) 579-2700  
+### Featured Speakers
 
-<div style="font-size: 1.15em;">
+* [Rajesh Ghandi, MD](https://researchers.mgh.harvard.edu/profile/1295560/Rajesh-Gandhi)  Massachusetts General Hospital/ Harvard Medical School 
+  
+* [Zack Moore, MD, MPH](https://www.linkedin.com/in/zack-moore-382285243) North Carolina State Epidemiologist  
 
-**Please contact [RSVP using this link](https://redcap.link/idweek2025) by 15 October if you plan to attend!**
+* [Deverick Anderson, MD, MPH](https://medicine.duke.edu/profile/deverick-john-anderson), Duke University Medical School
 
-</div>
+### Hotel Accommodations
+A limited number of rooms have been reserved for participants for Friday, March 13, 2026 at the [Courtyard by Marriott Chapel Hill](https://www.guestreservations.com/courtyard-by-marriott-chapel-hill/booking), 100 Marriott Way, Chapel Hill, NC. The room rate is $189.00. To make your reservations, call the Marriott at 919-883-0700 and refer to “NC Infectious Disease Society” for the group rate. Individuals are responsible for making their own reservations. 
+
+**Deadline for reservations is February 10, 2026.**
+
+### Full Pogram
+
+See [the full program here](../static/images/77104-Infectious-Disease.pdf)
 
 ## Interested in Joining?
 
