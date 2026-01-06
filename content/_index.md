@@ -16,7 +16,7 @@ We are a state affiliate of the [Infectious Diseases Society of America](https:/
 
 ## NCIDS Spring Conference
 
-NCIDS is excited to announce a date for the spring scientific conference on March 14, 2026 in Chapel Hill, North Carolina at the Friday Center (100 Friday Center, Dr, Chapel Hill, NC). CME will be available for attendees (both physician and pharmacist)
+NCIDS is excited to announce a date for the spring scientific conference on <u>**March 14, 2026**</u> in Chapel Hill, North Carolina at the Friday Center (100 Friday Center, Dr, Chapel Hill, NC). CME will be available for attendees (both physician and pharmacist)
 
 [Register here at this link](https://www.piedmontahec.org/courses-and-events/77104/nc-infectious-disease-society-spring-clinical-and-scientific-meeting)
 
