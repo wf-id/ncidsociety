@@ -22,11 +22,13 @@ NCIDS is excited to announce a date for the spring scientific conference on Marc
 
 ### Featured Speakers
 
+<span style="text-align: left;">
 * [Rajesh Ghandi, MD](https://researchers.mgh.harvard.edu/profile/1295560/Rajesh-Gandhi)  Massachusetts General Hospital/ Harvard Medical School 
   
 * [Zack Moore, MD, MPH](https://www.linkedin.com/in/zack-moore-382285243) North Carolina State Epidemiologist  
 
 * [Deverick Anderson, MD, MPH](https://medicine.duke.edu/profile/deverick-john-anderson), Duke University Medical School
+</span>
 
 ### Hotel Accommodations
 A limited number of rooms have been reserved for participants for Friday, March 13, 2026 at the [Courtyard by Marriott Chapel Hill](https://www.guestreservations.com/courtyard-by-marriott-chapel-hill/booking), 100 Marriott Way, Chapel Hill, NC. The room rate is $189.00. To make your reservations, call the Marriott at 919-883-0700 and refer to “NC Infectious Disease Society” for the group rate. Individuals are responsible for making their own reservations. 
@@ -35,7 +37,7 @@ A limited number of rooms have been reserved for participants for Friday, March 
 
 ### Full Pogram
 
-See [the full program here](../static/images/77104-Infectious-Disease.pdf)
+See [the full program here](../images/77104-Infectious-Disease.pdf)
 
 ## Interested in Joining?
 
