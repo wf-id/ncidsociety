@@ -23,6 +23,7 @@ NCIDS is excited to announce a date for the spring scientific conference on Marc
 ### Featured Speakers
 
 <span style="text-align: left;">
+
 * [Rajesh Ghandi, MD](https://researchers.mgh.harvard.edu/profile/1295560/Rajesh-Gandhi)  Massachusetts General Hospital/ Harvard Medical School 
   
 * [Zack Moore, MD, MPH](https://www.linkedin.com/in/zack-moore-382285243) North Carolina State Epidemiologist  
