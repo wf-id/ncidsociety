@@ -42,7 +42,7 @@ You can pay your membership dues below:
 
 <div class="membership-buttons">
 <a href="https://buy.stripe.com/6oE4jm6MJakv97q146" class="membership-btn subscription-btn">Yearly Subscription - $0/year</a>
-<a href="#" class="membership-btn onetime-btn">One-Time Payment - $0</a>
+<a href="https://buy.stripe.com/6oE4jm6MJakv97q146" class="membership-btn onetime-btn">One-Time Payment - $0</a>
 </div>
 
 <style>
@@ -57,12 +57,12 @@ You can pay your membership dues below:
     display: inline-block;
     padding: 0.75rem 1.5rem;
     background-color: #0066cc;
-    color: white;
+    color: #d3d3d3;
     text-decoration: none;
     border-radius: 5px;
     font-weight: 600;
     text-align: center;
-    transition: background-color 0.3s ease, transform 0.2s ease;
+    transition: background-color 0.3s ease, transform 0.2s ease, color 0.3s ease;
     border: 2px solid #0066cc;
     min-width: 200px;
 }
