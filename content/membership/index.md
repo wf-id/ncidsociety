@@ -53,11 +53,13 @@ You can pay your membership dues below:
     flex-wrap: wrap;
 }
 
-.membership-btn {
+.membership-btn,
+.membership-buttons a.membership-btn,
+.nested-links .membership-buttons a.membership-btn {
     display: inline-block;
     padding: 0.75rem 1.5rem;
     background-color: #0066cc;
-    color: white;
+    color: #d3d3d3 !important;
     text-decoration: none;
     border-radius: 5px;
     font-weight: 600;
@@ -67,10 +69,12 @@ You can pay your membership dues below:
     min-width: 200px;
 }
 
-.membership-btn:hover {
+.membership-btn:hover,
+.membership-buttons a.membership-btn:hover,
+.nested-links .membership-buttons a.membership-btn:hover {
     background-color: #0052a3;
     transform: translateY(-2px);
-    color: white;
+    color: white !important;
     text-decoration: none;
 }
 
@@ -78,22 +82,30 @@ You can pay your membership dues below:
     transform: translateY(0);
 }
 
-.subscription-btn {
+.subscription-btn,
+.membership-buttons a.subscription-btn,
+.nested-links .membership-buttons a.subscription-btn {
     background-color: #0066cc;
     border-color: #0066cc;
 }
 
-.subscription-btn:hover {
+.subscription-btn:hover,
+.membership-buttons a.subscription-btn:hover,
+.nested-links .membership-buttons a.subscription-btn:hover {
     background-color: #0052a3;
     border-color: #0052a3;
 }
 
-.onetime-btn {
+.onetime-btn,
+.membership-buttons a.onetime-btn,
+.nested-links .membership-buttons a.onetime-btn {
     background-color: #28a745;
     border-color: #28a745;
 }
 
-.onetime-btn:hover {
+.onetime-btn:hover,
+.membership-buttons a.onetime-btn:hover,
+.nested-links .membership-buttons a.onetime-btn:hover {
     background-color: #218838;
     border-color: #218838;
 }
