@@ -28,14 +28,14 @@ You can pay your membership dues below:
 
 <div class="membership-buttons">
 <a href="https://buy.stripe.com/dR6dTWb2Zboz0AU7sw" class="membership-btn subscription-btn">Yearly Subscription - $70/year</a>
-<a href="#" class="membership-btn onetime-btn">One-Time Payment - $70</a>
+<a href="https://buy.stripe.com/cNicN63IW6QGgWq7yI2oE06" class="membership-btn onetime-btn">One-Time Payment - $70</a>
 </div>
 
 ### Fellows
 
 <div class="membership-buttons">
 <a href="https://buy.stripe.com/5kAdTWfjf50b3N6003" class="membership-btn subscription-btn">Yearly Subscription - $35/year</a>
-<a href="#" class="membership-btn onetime-btn">One-Time Payment - $35</a>
+<a href="https://buy.stripe.com/fZueVe5R44Iyay29GQ2oE07" class="membership-btn onetime-btn">One-Time Payment - $35</a>
 </div>
 
 ### Students, Residents, and Pharmacy PGY2s
