@@ -57,7 +57,7 @@ You can pay your membership dues below:
     display: inline-block;
     padding: 0.75rem 1.5rem;
     background-color: #0066cc;
-    color: #d3d3d3;
+    color: white;
     text-decoration: none;
     border-radius: 5px;
     font-weight: 600;
