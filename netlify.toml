@@ -32,6 +32,8 @@ HUGO_VERSION = "0.100.2"
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-from = "/npmjs/*"
-to = "/npmjs/"
-status = 200
+  from = "/members/page*"
+  to = "/members/page:splat"
+  status = 200
+  force = true
+  conditions = {Role = ["member"]}

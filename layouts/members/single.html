@@ -1,0 +1,59 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+
+{{ define "main" }}
+<div class="flex-l mt2 mw8 center">
+  <article class="center cf pv5 ph3 ph4-ns mw7">
+    <!-- Directly include Netlify Identity Widget -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+    <!-- Login/Logout Button styled to match Ananke -->
+    <div class="mb4">
+      <div data-netlify-identity-button class="f6 link dim br2 ba ph3 pv2 mb2 dib black"></div>
+    </div>
+
+    <!-- Protected Content -->
+    <div id="protected-content" style="display: none;">
+      <header>
+        <h1 class="f1">{{ .Title }}</h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+        {{ .Content }}
+      </div>
+    </div>
+
+    <!-- Public Content -->
+    <div id="public-content" class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+      <h1 class="f1">Please Log In</h1>
+      <p>You must be logged in to view the protected content.</p>
+    </div>
+
+    <script>
+      function checkUser() {
+          const user = netlifyIdentity.currentUser();
+          const protectedContent = document.getElementById('protected-content');
+          const publicContent = document.getElementById('public-content');
+          
+          if (user) {
+              protectedContent.style.display = 'block';
+              publicContent.style.display = 'none';
+          } else {
+              protectedContent.style.display = 'none';
+              publicContent.style.display = 'block';
+          }
+      }
+
+      // Initial check
+      checkUser();
+
+      // Listen for login/logout events
+      netlifyIdentity.on('login', () => {
+          checkUser();
+      });
+
+      netlifyIdentity.on('logout', () => {
+          checkUser();
+      });
+    </script>
+  </article>
+</div>
+{{ end }}
