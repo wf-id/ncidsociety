@@ -23,12 +23,12 @@ Sponsorship allows us to provide expanded member benefits including our regular 
 
 <figure>
 <img src="/images/sponsors/Insmed_Logo_Purple_RGB (1).png" width="240"  style="width:100%">
-<figcaption>CorMedix</figcaption>
+<figcaption>Insmed</figcaption>
 </figure>
 
 <figure>
 <img src="/images/sponsors/gilead.png" width="240"  style="width:100%">
-<figcaption>CorMedix</figcaption>
+<figcaption>Gilead</figcaption>
 </figure>
 
 ### Silver Sponsors
