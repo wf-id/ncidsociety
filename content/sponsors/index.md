@@ -16,7 +16,7 @@ Sponsorship allows us to provide expanded member benefits including our regular 
 
 
 <figure>
-<img src="/images/Slide1.png" width="480"  style="width:100%">
+<img src="/images/Slide1.png" width="800"  style="width:100%">
 <figcaption>Thank you!</figcaption>
 </figure>
 
